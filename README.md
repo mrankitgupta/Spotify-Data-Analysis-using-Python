@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis using Python <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
-**An exploratory data analysis (EDA) and data visualization of the data from Spotify using Python.**
+**I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Spotify using Python - A Data Analysis Project performed in my journey into Data Science.**
 
 ### About the Project
 
