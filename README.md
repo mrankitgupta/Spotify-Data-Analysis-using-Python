@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://www.kaggle.com/mrankitgupta" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis using Python <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
+<h1 align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis using Python <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
 **An exploratory data analysis (EDA) and data visualization of the data from Spotify using Python.**
 
@@ -8,17 +8,14 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 
 - Here, We'll exploring and quantify data about music and drawing valuable insights.
 
-- Perform an exploratory data analysis (EDA) and data visualization project using data from Spotify using Python.
+- Perform an exploratory data analysis (EDA) and data visualization of the data from Spotify using Python.
 
-- Data analysis exploring the relationship between the audio features of a song and how positive or negative its lyrics are, involving sentiment analysis.
+- Data analysis - Exploring the relationship between the audio features of a song and how positive or negative its lyrics are, involving sentiment analysis.
 
 - Includes data collection script that scrapes audio feature data from the Spotify API, as well as lyrical data from the LyricWikiAPI
 
 - Spotify Data Analysis makes use of secondary data from Spotify. Learners will use data to identify patterns and relationships between different characteristics. The activity will support learners in developing their ability to review and interpret a dataset. 
 
-Jupyter Notebook here: Spotify Data Analysis
-
-Data collection script here: Python data scraper
 
 **Prerequisite:** <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: , <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 & <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
  
@@ -51,10 +48,11 @@ Data collection script here: Python data scraper
 
 ## Project - Spotify Data Analysis using Python
 
-**[My Kaggle Project Link](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project)**  <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="35" height="20"/> 🔗
+**[Kaggle Project Link: Spotify Data Analysis](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project)**  <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="35" height="20"/>
+ 
+[Spotify Datasets:](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project/data) <code>[Spotify Tracks](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project/data?select=tracks.csv)</code> & <code>[Spotify Features](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project/data?select=SpotifyFeatures.csv)</code> :hourglass: 
 
-
-
+ 
 ## Related Projects:question: 👨‍💻 🛰️
 
 <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
