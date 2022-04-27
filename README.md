@@ -6,6 +6,8 @@
 
 Spotify is a Swedish audio streaming and media services provider founded in April 2006. It is the world's largest music streaming service provider and has over 381 million monthly active users, which also includes 172 million paid subscribers.
 
+<p align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Spotify.webp" alt="python" width="50%" height="10%"/> </a> </p>
+
 - Here, We'll exploring and quantify data about music and drawing valuable insights.
 
 - Perform an exploratory data analysis (EDA) and data visualization of the data from Spotify using Python.
