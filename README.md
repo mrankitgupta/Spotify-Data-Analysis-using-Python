@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://github.com/mrankitgupta/Data-Analyst-Roadmap" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis using Python <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
+<h1 align="center"> <a href="https://www.kaggle.com/mrankitgupta" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="55" height="40"/> </a> Spotify Data Analysis using Python <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
 ### About the Project
 
@@ -47,7 +47,13 @@ Data collection script here: Python data scraper
 - [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
 
 
-## Featured projects:question: 👨‍💻 🛰️
+## Project - 
+
+**[My Kaggle Project Link](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project)**  <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="35" height="20"/> 🔗
+
+
+
+## Related Projects:question: 👨‍💻 🛰️
 
 <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
 
@@ -60,10 +66,6 @@ Data collection script here: Python data scraper
 <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
  
 <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
- 
-## Project - 
-
-**[My IBM Cloud Project Link](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/c1b5b665-7e89-41e6-9aae-d6f184d4245d/view?access_token=d106bb6c980e568aa5a41613f5601f81c9be999faa295fb2f2b61321e2ecbf46)** 🔗
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
