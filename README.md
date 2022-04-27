@@ -47,7 +47,7 @@ Data collection script here: Python data scraper
 - [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
 
 
-## Project - 
+## Project - Spotify Data Analysis using Python
 
 **[My Kaggle Project Link](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project)**  <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="35" height="20"/> 🔗
 
