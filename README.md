@@ -39,9 +39,7 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 
 - [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
  
-- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) - by Great Learning 
-
-- [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
+- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning 
 
 - [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
 
