@@ -48,9 +48,9 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 
 ## Project - Spotify Data Analysis using Python
 
-**[Kaggle Project Link: Spotify Data Analysis](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project)**  <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="35" height="20"/>
+**[Kaggle Project: Spotify Data Analysis](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python)**  <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/social-spotify.svg" alt="Spotify" width="35" height="20"/> 🔗
  
-[Spotify Datasets:](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project/data) <code>[Spotify Tracks](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project/data?select=tracks.csv)</code> & <code>[Spotify Features](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project/data?select=SpotifyFeatures.csv)</code> :hourglass: 
+[Kaggle Spotify Datasets:](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project/data) <code>[Spotify Tracks](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python/data?select=tracks.csv)</code> & <code>[Spotify Features](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python/data?select=SpotifyFeatures.csv)</code>  
 
  
 ## Related Projects:question: 👨‍💻 🛰️
