@@ -8,16 +8,13 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
 
 <p align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Spotify.webp" alt="Spotify" width="50%" height="10%"/> </a> </p>
 
-- Here, We'll exploring and quantify data about music and drawing valuable insights.
+- Here, l have explored and quantified data about music and drawn valuable insights.
 
-- Perform an exploratory data analysis (EDA) and data visualization of the data from Spotify using Python.
+- Performed an exploratory data analysis (EDA) and data visualization of the data from Spotify using Python.
 
 - Data analysis - Exploring the relationship between the audio features of a song and how positive or negative its lyrics are, involving sentiment analysis.
 
-- Includes data collection script that scrapes audio feature data from the Spotify API, as well as lyrical data from the LyricWikiAPI
-
-- Spotify Data Analysis makes use of secondary data from Spotify. Learners will use data to identify patterns and relationships between different characteristics. The activity will support learners in developing their ability to review and interpret a dataset. 
-
+- Spotify Data Analysis makes use of secondary data from Spotify. Learners will use data to identify patterns and relationships between different characteristics. The activity will support in developing their ability to review and interpret a dataset.
 
 **Prerequisite:** <code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: , <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑 & <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
  
