@@ -91,7 +91,8 @@ Spotify is a Swedish audio streaming and media services provider founded in Apri
  
 <code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
 
-### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+### Liked my Contributions:question: Follow Me👉 [Kaggle](https://www.kaggle.com/MrAnkitGupta) and [GitHub](https://github.com/MrAnkitGupta)
+:point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 ## For any queries/doubts 🔗 👇 
 
